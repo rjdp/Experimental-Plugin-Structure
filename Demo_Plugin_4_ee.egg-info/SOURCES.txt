@@ -1,0 +1,7 @@
+setup.py
+Demo_Plugin_4_ee.egg-info/PKG-INFO
+Demo_Plugin_4_ee.egg-info/SOURCES.txt
+Demo_Plugin_4_ee.egg-info/dependency_links.txt
+Demo_Plugin_4_ee.egg-info/not-zip-safe
+Demo_Plugin_4_ee.egg-info/requires.txt
+Demo_Plugin_4_ee.egg-info/top_level.txt
